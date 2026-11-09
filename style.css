@@ -445,3 +445,62 @@ button:hover {
     z-index: 99;
     box-shadow: 0 5px 20px #7c3aed55;
 }
+.light-mode .hero h1 {
+    color: #17152b;
+}
+
+.light-mode .hero h1 span {
+    color: #7c3aed;
+}
+.light-mode .logo {
+    color: #17152b;
+}
+
+.light-mode .logo span {
+    color: #7c3aed;
+}
+
+/* Light mode hero section */
+.light-mode .hero {
+    background: #f5f3ff;
+}
+
+.light-mode .hero h1 {
+    color: #17152b;
+}
+
+.light-mode .hero h1 span,
+.light-mode .hero h2 {
+    color: #7c3aed;
+}
+
+/* Light mode skills section */
+.light-mode #skills {
+    background: #f5f3ff;
+}
+
+.light-mode .section-title {
+    color: #17152b;
+}
+
+.light-mode .section-label {
+    color: #7c3aed;
+}
+
+.light-mode .skill-card {
+    background: #ffffff;
+    color: #17152b;
+    border-color: #ddd6fe;
+}
+
+.light-mode .skill-card h3 {
+    color: #17152b;
+}
+
+.light-mode .skill-bar {
+    background: #ddd6fe;
+}
+
+.light-mode .skill-bar div {
+    background: linear-gradient(90deg, #7c3aed, #a78bfa);
+}
